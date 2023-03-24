@@ -1,0 +1,5 @@
+Név;jelszó;email
+Családi Alexandra;pleh;csas.ale@valami.hu
+Plénka Mária;csipkerózsa;ple.mar@pelda.hu
+Kis Miska;j2;kismis@emailem.hu
+Otto Örs;trky;ot.ot@mailz.com
